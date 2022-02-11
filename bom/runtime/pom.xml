@@ -118,7 +118,7 @@
         <junit.jupiter.version>5.5.2</junit.jupiter.version>
         <testng.version>6.14.2</testng.version>
         <assertj.version>3.13.2</assertj.version>
-        <json-smart.version>2.3</json-smart.version>
+        <json-smart.version>2.4.5</json-smart.version>
         <infinispan.version>10.0.0.Final</infinispan.version>
         <infinispan.protostream.version>4.3.0.Final</infinispan.protostream.version>
         <caffeine.version>2.6.2</caffeine.version>
